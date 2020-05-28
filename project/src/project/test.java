@@ -8,6 +8,7 @@ public class test {
 		System.out.println("hi");
 		System.out.println("java");
 		System.out.println("php");
+		System.out.println("python");
 
 	}
 
